@@ -6,7 +6,6 @@ Initial use case: enable fun final projects for INST 126.
 
 from bs4 import BeautifulSoup
 import os
-import pandas as pd
 
 def html_to_course_list(filepath):
     """
@@ -85,6 +84,3 @@ to_write.close()
 # # print out
 # for course in courses_all[:50]:
 #     print(course_d_to_text(course))
-
-df = pd.DataFrame(courses_all)
-df.to_json()
