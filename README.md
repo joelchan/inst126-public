@@ -1,3 +1,4 @@
-# inst126-public
+Welcome to the public site for UMD's INST126, taught by [Joel Chan](http://joelchan.me).
 
-```get-testudo-courses.py``` goes through the html files in the ```data/fall2020-courses``` directory (course listing pages for 18 colleges/departments for Fall 2020 for UMD) and spits out a single text file that lists all the course data extracted from the html files
+We're experimenting with hosting the learning materials for the semester, starting with the [Syllabus](Syllabus.md) and [Course Schedule](Course%20Schedule.md), here, as a way to gently onboard students into the community of practice of software developers that exists on github.
+
