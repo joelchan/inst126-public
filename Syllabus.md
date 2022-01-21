@@ -38,7 +38,7 @@ After successfully completing this course you will be able to:
     
 ## Required Resources
 
-Course website: [elms.umd.edu](http://www.elms.umd.edu) 
+ELMS: https://umd.instructure.com/courses/1320718 
 
 This github repository: https://github.com/joelchan/inst126-public - will host the lecture notes and programming assignment materials. It is public at the moment, but you will need a github id to retain access after Week 2!
 
