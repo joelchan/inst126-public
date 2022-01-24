@@ -10,11 +10,13 @@ Tu/Thu 2:00 PM – 3:15 PM | ATL 1113
 - Email: joelchan@umd.edu
 - Office: HBK South 2118E 
 - Office hours: 
-	- Mon 10:30-1p, Tue 3:30-4:30p, or by appointment (email me to schedule)
+	- Mon 10:30-12p, Tue 12-1p; 3:30-4:30p, or by appointment (email me to schedule)
 	- In person or Zoom (link on ELMS): will have Zoom open when I am in the office during office hours
 	- Sign ups in [this doc](https://docs.google.com/document/d/1KinYhsyKEmD-BRzh_NFzPX64mUiukKWgTQ3cyy0M188/edit?usp=sharing) appreciated, but not required
 
-**Graduate TA**: TBD
+**Graduate TA**: Rutvij Khandekar
+* Email: rkhand7@umd.edu
+* Office hours: TBD
 
 **Undergraduate TA**: Sarah Patrick
 * Email: sep890@umd.edu
