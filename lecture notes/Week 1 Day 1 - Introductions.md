@@ -24,6 +24,8 @@ Can you think of a less laborious way to program to do the same task, using the 
 ---
 
 Let's look at another example, in Python.
+- https://github.com/joelchan/inst126-public/blob/master/examples/Week%201%20Day%201%20-%20Code%20snippets.ipynb
+- https://github.com/joelchan/inst126-public/blob/master/examples/INST%20126%20example%20program%20-%20course%20copier.ipynb
 
 ---
 
