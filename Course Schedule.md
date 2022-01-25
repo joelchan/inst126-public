@@ -85,6 +85,7 @@ Resources:
 
 Due:
 - At start of week: 
+	- Conditionals PCE
 	- Project 1 Final Deliverable
 - At the end of the week:
 	- LC-05
