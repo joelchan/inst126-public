@@ -7,7 +7,7 @@
 Learning outcomes:
 - Explain the two major components of programming skill
 - Create and run code in a Jupyter notebook
-- Recognize distinctions between semantic, logical, and syntax errors
+- Recognize distinctions between semantic and syntax errors
 
 Resources:
 - PY4E Ch1: https://www.py4e.com/html3/01-intro 
