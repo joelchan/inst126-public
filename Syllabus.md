@@ -20,7 +20,8 @@ Tu/Thu 2:00 PM – 3:15 PM | ATL 1113
 
 **Undergraduate TA**: Sarah Patrick
 * Email: sep890@umd.edu
-* Office hours: Tue/Wed 3:30-5p (half in-person, half Zoom/Discord)
+* Office hours: Tue/Wed 3:30-5p
+* Tuesdays in-person at Hornbake Ground Floor Open Study Area (by the iSchool Service Desk), Wednesdays on Discord Voice Channel
 
 ## Learning Outcomes
 
