@@ -13,8 +13,8 @@ Today we'll continue exploring variables, and get some hands-on programming toge
 ### Rough gameplan
 1. Review stuff from Day 1
 2. Discuss variable naming, functions
-3. Work on PCE for Expressions and Variables together
-4. Discuss help-seeking template
+3. Discuss help-seeking template
+4. Work on PCE for Expressions and Variables together
 
 ---
 
@@ -41,6 +41,14 @@ For example, we can only do math with `int`, even if the number that is a `str` 
 ---
 
 ### Short lecture on variables and a bit of functions
+
+---
+
+### Norm-setting: how to ask for help
+
+---
+![](../resources/Pasted%20image%2020220203125544.png)
+Also on our github. Today we will focus mostly on the first two.
 
 ---
 
@@ -75,7 +83,3 @@ We'll repeat this cycle until we get through roughly half of the exercises. Then
 Any questions?
 
 If not, let's download the PCE file (it's on ELMS), fire up Jupyter, and get started!
-
----
-
-Interlude
