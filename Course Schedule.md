@@ -52,7 +52,7 @@ Resources:
 
 Due:
 - At start of week: 
-	- Variables and Expressions PCE
+	- Nothing!
 - At the end of the week:
 	- LC-03
 
@@ -68,6 +68,7 @@ Resources:
 
 Due:
 - At start of week: 
+	- Variables and Expressions PCE
 	- Functions PCE
 - At the end of the week:
 	- LC-04
