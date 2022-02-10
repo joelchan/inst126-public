@@ -23,6 +23,10 @@ Tu/Thu 2:00 PM – 3:15 PM | ATL 1113
 * Office hours: Tue/Wed 3:30-5p
 * Tuesdays in-person at Hornbake Ground Floor Open Study Area (by the iSchool Service Desk), Wednesdays on Discord Voice Channel
 
+**Academic Peer Mentor (AMP)**: Samar Majid
+* Email: smajid@terpmail.umd.edu
+* Office hours: Wed 10am-1pm, Thurs 10am-12pm, and Thurs 5pm-6pm (on Discord/Zoom; Zoom link on ELMS and announced on Discord).
+
 ## Learning Outcomes
 
 This is an introduction to programming for information science majors. This course provides a path for students with diverse backgrounds to successfully learn programming. You are not expected to have any computer programming experience.
