@@ -66,7 +66,7 @@ Resources:
 - PY4E Ch4: [https://www.py4e.com/html3/04-functions](https://www.py4e.com/html3/04-functions)
 - Day 1
 	- [Week 3 Day 1 - (slides) Functions](lecture%20notes/Week%203%20Day%201%20-%20(slides)%20Functions.md)
-	- [Week 3 Day 1 - Functions.ipynb](lecture%20notes/Week%203%20Day%201%20 -%20Functions.ipynb)
+	- [Week 3 Day 1 - Functions.ipynb](lecture%20notes/Week%203%20Day%201%20-%20Functions.ipynb)
 	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=91b5aa84-0a58-4230-b01e-ae3601583bca
 - Day 2
 	- [Week 3 Day 2 - (slides) Functions review and practice](lecture%20notes/Week%203%20Day%202%20-%20(slides)%20Functions%20review%20and%20practice.md)
