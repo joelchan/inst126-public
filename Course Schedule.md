@@ -16,7 +16,7 @@ Resources:
 	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5653a95b-f684-4300-b83d-ae2801505f81
 - Day 2
 	- [Week 1 Day 2 - Hello world](lecture%20notes/Week%201%20Day%202%20-%20Hello%20world.md)
-	- [Week 1 Day 2 - Intro to Jupyter.ipynb](lecture notes/Week 1 Day 2 - Intro to Jupyter.ipynb)
+	- [Week 1 Day 2 - Intro to Jupyter.ipynb](lecture%20notes/Week%201%20Day%202%20-%20Intro%20to%20Jupyter.ipynb)
 	- [Week 1 Day 2 - Reasoning about kernel state and sequence, Hello world.ipynb](lecture%notes/Week%201%20Day%202%20-%20Reasoning%20about%20kernel%20state%20and%20sequence,%20Hello%20world.ipynb)
 	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9bd0e091-1b67-44fa-b4ab-ae2a015029a3
 Due:
