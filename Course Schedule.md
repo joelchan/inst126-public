@@ -17,7 +17,7 @@ Resources:
 - Day 2
 	- [Week 1 Day 2 - Hello world](lecture%20notes/Week%201%20Day%202%20-%20Hello%20world.md)
 	- [Week 1 Day 2 - Intro to Jupyter.ipynb](lecture notes/Week 1 Day 2 - Intro to Jupyter.ipynb)
-	- [Week 1 Day 2 - Reasoning about kernel state and sequence, Hello world.ipynb](lecture%notes/Week%1%Day%2%-%Reasoning%about kernel%state%and%sequence,%Hello%world.ipynb)
+	- [Week 1 Day 2 - Reasoning about kernel state and sequence, Hello world.ipynb](lecture%notes/Week%201%20Day%202%20-%20Reasoning%20about%20kernel%20state%20and%20sequence,%20Hello%20world.ipynb)
 	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9bd0e091-1b67-44fa-b4ab-ae2a015029a3
 Due:
 - At start of week: 
@@ -39,11 +39,11 @@ Resources:
 - PY4E Ch2: [https://www.py4e.com/html3/02-variables](https://www.py4e.com/html3/02-variables)
 - Day 1
 	- [Week 2 Day 1 - (slides) Expressions and Variables](lecture%20notes/Week%202%20Day%201%20-%20(slides)%20Expressions%20and%20Variables.md)
-	- [Week 2 Day 1 - Expressions and Variables.ipynb](lecture%notes/Week%2%Day%1%-%Expressions%and%Variables.ipynb)
+	- [Week 2 Day 1 - Expressions and Variables.ipynb](lecture%20notes/Week%202%20Day%201%20-%20Expressions%20and%20Variables.ipynb)
 	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=616205af-0e36-4e27-bf38-ae2f0151d25a
 - Day 2
 	- [Week 2 Day 2 - Variables and Expressions Continued](lecture%20notes/Week%202%20Day%202%20-%20Variables%20and%20Expressions%20Continued.md)
-	- [Week 2 Day 2 - Expressions and Variables (continued).ipynb](Week%2%Day%2%-%Expressions%and%Variables%(continued).ipynb)
+	- [Week 2 Day 2 - Expressions and Variables (continued).ipynb](lecture%20notes/Week%202%20Day%202%20-%20Expressions%20and%20Variables%20(continued).ipynb)
 	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=013b16f7-5482-42c2-b440-ae3101554081
 
 Due:
@@ -66,7 +66,7 @@ Resources:
 - PY4E Ch4: [https://www.py4e.com/html3/04-functions](https://www.py4e.com/html3/04-functions)
 - Day 1
 	- [Week 3 Day 1 - (slides) Functions](lecture%20notes/Week%203%20Day%201%20-%20(slides)%20Functions.md)
-	- [Week 3 Day 1 - Functions.ipynb](lecture%notes/Week%3%Day%1% -%Functions.ipynb)
+	- [Week 3 Day 1 - Functions.ipynb](lecture%20notes/Week%203%20Day%201%20 -%20Functions.ipynb)
 	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=91b5aa84-0a58-4230-b01e-ae3601583bca
 - Day 2
 	- [Week 3 Day 2 - (slides) Functions review and practice](lecture%20notes/Week%203%20Day%202%20-%20(slides)%20Functions%20review%20and%20practice.md)
@@ -89,7 +89,7 @@ Resources:
 - PY4E Ch3: https://www.py4e.com/html3/03-conditional
 - Day 1
 	- [Week 4 Day 1 - (slides) Conditionals](lecture%20notes/Week%204%20Day%201%20-%20(slides)%20Conditionals.md)
-	- [Week 4 Day 1 - Conditionals lecture 1.ipynb](lecture notes/Week 4 Day 1 - Conditionals lecture 1.ipynb)
+	- [Week 4 Day 1 - Conditionals lecture 1.ipynb](lecture%20notes/Week%204%20Day%201%20-%20Conditionals%20lecture%201.ipynb)
 	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4ba7ee80-146a-46fe-90b4-ae3d015d29c2
 
 Due:
