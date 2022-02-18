@@ -91,6 +91,9 @@ Resources:
 	- [Week 4 Day 1 - (slides) Conditionals](lecture%20notes/Week%204%20Day%201%20-%20(slides)%20Conditionals.md)
 	- [Week 4 Day 1 - Conditionals lecture 1.ipynb](lecture%20notes/Week%204%20Day%201%20-%20Conditionals%20lecture%201.ipynb)
 	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4ba7ee80-146a-46fe-90b4-ae3d015d29c2
+- Day 2
+	- [Week 4 Day 2 - (slides) Conditionals practice](lecture%20notes/Week%204%20Day%202%20-%20(slides)%20Conditionals%20practice.md)
+	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=118c1e4a-b872-43f0-ad77-ae3f01518023
 
 Due:
 - At start of week: 
