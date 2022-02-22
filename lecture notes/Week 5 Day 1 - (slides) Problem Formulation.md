@@ -120,6 +120,8 @@ With a partner, take a first crack at this: What are the main substeps/**operati
 
 Now let's do it together, here: https://miro.com/app/board/uXjVOKy70qY=/?moveToWidget=3458764519532731974&cot=14
 
+![](../resources/Pasted%20image%2020220222172000.png)
+
 ---
 
 ### Even more practice!
@@ -130,6 +132,8 @@ I'm going to give you a bunch of birth certificates (N=500,000), and I want you 
 ---
 
 Now let's do it together, here: https://miro.com/app/board/uXjVOKy70qY=/?moveToWidget=3458764519532732816&cot=14
+
+![](../resources/Pasted%20image%2020220222171937.png)
 
 ---
 
