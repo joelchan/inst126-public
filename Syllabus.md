@@ -16,7 +16,7 @@ Tu/Thu 2:00 PM – 3:15 PM | ATL 1113
 
 **Graduate TA**: Rutvij Khandekar
 * Email: rkhand7@umd.edu
-* Office hours: TBD
+* Office hours: Saturdays, specific hours announced weekly, otherwise on Discord
 
 **Undergraduate TA**: Sarah Patrick
 * Email: sep890@umd.edu
