@@ -115,6 +115,10 @@ Resources:
 	* [[lecture notes/Week 5 Day 1 - (slides) Problem Formulation]]
 	* [Week 5 Day 1 - Conditionals Review.ipynb](lecture%20notes/Week%205%20Day%201%20-%20(nb)%20Conditionals%20Review%20.ipynb)
 	* Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f273eef6-d01a-4b13-aef8-ae44015683d9
+* Day 2
+	* [[Week 5 Day 2 - (slides) Problem Formulation (ct'd) and Ethics]]	
+	* [Week 5 Day 2 (nb) - in class program.ipynb](lecture%20notes/Week%205%20Day%202%20-%20(nb)%20in%20class%20program.ipynb)
+	* Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c2dbb80c-2641-4cf6-a98d-ae4601568db4
 
 Due:
 - At start of week: 
