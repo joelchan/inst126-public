@@ -85,15 +85,20 @@ But good problem formulation should consider more than just the "purely technica
 
 Let's consider an example: a form for data entry for payment. Needs to account for possible data entry errors.
 
-Let's formulate the problem together.
+Let's formulate the problem together, here: https://miro.com/app/board/uXjVOKy70qY=/
+
+![](../resources/Pasted%20image%2020220224171359.png)
 
 ---
 
 Let's formulate another problem together: a contact tracing system for UMD students.
 
+![](../resources/Pasted%20image%2020220224171251.png)
 ---
 
 One last example: an algorithm for predicting health risk so we can direct more resources to patients who are sicker.
+
+![](../resources/Pasted%20image%2020220224171130.png)
 
 ---
 
