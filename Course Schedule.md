@@ -138,6 +138,10 @@ Learning outcomes:
 
 Resources:
 - PY4E Ch8: https://www.py4e.com/html3/08-lists
+- Day 1
+	- [Week-6_Day-1_Slides_Lists](lecture%20notes/Week-6_Day-1_Slides_Lists.md)
+	- [Week-6_Day-1_NB_Lists](lecture%20notes/Week-6_Day-1_NB_Lists.ipynb)
+	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c63dd1ab-31a5-4a35-8e90-ae4b0154ac8e
 
 Due:
 - At start of week: 
