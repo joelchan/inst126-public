@@ -142,6 +142,9 @@ Resources:
 	- [Week-6_Day-1_Slides_Lists](lecture%20notes/Week-6_Day-1_Slides_Lists.md)
 	- [Week-6_Day-1_NB_Lists](lecture%20notes/Week-6_Day-1_NB_Lists.ipynb)
 	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c63dd1ab-31a5-4a35-8e90-ae4b0154ac8e
+- Day 2
+	- [Week-6_Day-2_Slides_Lists-ctd](lecture%20notes/Week-6_Day-2_Slides_Lists-ctd.md)
+	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=71be6100-e52a-4d47-ad6d-ae4d015a33a7
 
 Due:
 - At start of week: 
