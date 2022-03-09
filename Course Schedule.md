@@ -163,6 +163,10 @@ Learning outcomes:
 
 Resources:
 - PY4E Ch5: [https://www.py4e.com/html3/05-iterations](https://www.py4e.com/html3/05-iterations)
+- Day 1
+	- [Week-7_Day-1_Slides_Iteration](lecture%20notes/Week-7_Day-1_Slides_Iteration.md)
+	- [Week-7_Day-1_NB_Iteration](lecture%20notes/Week-7_Day-1_NB_Iteration.ipynb)
+	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=405a0c96-a06e-4bf4-a448-ae520153f525
 
 Due:
 - At start of week: 
