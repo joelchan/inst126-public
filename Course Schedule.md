@@ -167,6 +167,9 @@ Resources:
 	- [Week-7_Day-1_Slides_Iteration](lecture%20notes/Week-7_Day-1_Slides_Iteration.md)
 	- [Week-7_Day-1_NB_Iteration](lecture%20notes/Week-7_Day-1_NB_Iteration.ipynb)
 	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=405a0c96-a06e-4bf4-a448-ae520153f525
+- Day 2
+	- [Week-7_Day-2_Slides_Iteration-ctd](lecture%20notes/Week-7_Day-2_Slides_Iteration-ctd.md)
+	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca34ec10-e08e-42da-ae3c-ae540153f676#
 
 Due:
 - At start of week: 
