@@ -190,6 +190,10 @@ Learning outcomes:
 
 Resources:
 - PY4E Ch6: https://www.py4e.com/html3/06-strings 
+- Day 1
+	- [Week-8_Day-1_Slides_Strings](lecture%20notes/Week-8_Day-1_Slides_Strings.md)
+	- [Week-8_Day-1_NB_Strings](lecture%20notes/Week-8_Day-1_NB_Strings.ipynb)
+	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dbae4709-8385-4ea3-9b54-ae590148d613#
 
 Due:
 - At start of week: 
