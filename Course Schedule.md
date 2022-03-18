@@ -194,6 +194,9 @@ Resources:
 	- [Week-8_Day-1_Slides_Strings](lecture%20notes/Week-8_Day-1_Slides_Strings.md)
 	- [Week-8_Day-1_NB_Strings](lecture%20notes/Week-8_Day-1_NB_Strings.ipynb)
 	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dbae4709-8385-4ea3-9b54-ae590148d613#
+- Day 2
+	- [Week-8_Day-2_Slides_Strings_ctd](lecture%20notes/Week-8_Day-2_Slides_Strings_ctd.md)
+	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9e9bdf19-efc6-4749-9165-ae5b0144fb26#
 
 Due:
 - At start of week: 
@@ -217,7 +220,7 @@ Resources:
 Due:
 - At start of week: 
 	- Strings PCE
-	- Project 2 Final Deliverable
+	- Project 2 Final Deliverable (Wed 3/30)
 - At the end of the week:
 	- LC-09
 
