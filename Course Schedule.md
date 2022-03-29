@@ -215,7 +215,10 @@ Learning outcomes:
 - Make sense of an error message
 
 Resources:
-- TBD
+- How to ask for help: https://docs.google.com/document/d/1PXkXKko906a6zivJYvZQ8dMsLqFZ9RZbc5Aa4C-wWiw/edit?usp=sharing
+- Day 1
+	- [Week-10_Day-1_Slides_Debugging-Helpseeking](lecture%20notes/Week-10_Day-1_Slides_Debugging-Helpseeking.md)
+	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c7f14863-91c5-46f1-8d30-ae67014724d4
 
 Due:
 - At start of week: 
