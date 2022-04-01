@@ -219,6 +219,11 @@ Resources:
 - Day 1
 	- [Week-10_Day-1_Slides_Debugging-Helpseeking](lecture%20notes/Week-10_Day-1_Slides_Debugging-Helpseeking.md)
 	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c7f14863-91c5-46f1-8d30-ae67014724d4
+- Day 2
+	- [Week-10_Day-2_Slides_Module-Intro_Debugging-Practice](lecture%20notes/Week-10_Day-2_Slides_Module-Intro_Debugging-Practice.md)
+	- [Demo Project 3 Program](lecture%20notes/Week-10_Day-2_NB_ModuleIntro.ipynb)
+	- [Debugging examples](lecture%20notes/Week-10_Day-2_NB_Debugging_examples.ipynb)
+	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6d71f598-bd87-49db-8831-ae6901440c05#
 
 Due:
 - At start of week: 
