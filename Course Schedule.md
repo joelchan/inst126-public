@@ -248,6 +248,10 @@ Learning outcomes:
 
 Resources:
 - PY4E Ch9: https://www.py4e.com/html3/09-dictionaries 
+- Day 1
+	- [Week-11_Day-1_Slides_Dictionaries](lecture%20notes/Week-11_Day-1_Slides_Dictionaries.md)
+	- [Week-11_Day-1_NB_Dictionaries](lecture%20notes/Week-11_Day-1_NB_Dictionaries.ipynb)
+	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b537045-f0c4-4cfe-836b-ae6e01439f49#
 
 Due:
 - At start of week: 
