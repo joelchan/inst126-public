@@ -252,6 +252,9 @@ Resources:
 	- [Week-11_Day-1_Slides_Dictionaries](lecture%20notes/Week-11_Day-1_Slides_Dictionaries.md)
 	- [Week-11_Day-1_NB_Dictionaries](lecture%20notes/Week-11_Day-1_NB_Dictionaries.ipynb)
 	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b537045-f0c4-4cfe-836b-ae6e01439f49#
+- Day 2
+	- [Week-11_Day-2_Slides_Dictionaries-programming](lecture%20notes/Week-11_Day-2_Slides_Dictionaries-programming.md)
+	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8612e295-3099-4048-a876-ae7001438b68
 
 Due:
 - At start of week: 
