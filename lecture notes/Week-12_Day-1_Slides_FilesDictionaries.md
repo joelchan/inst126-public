@@ -5,7 +5,7 @@ Today we will learn about files and the indexing pattern with dictionaries
 ---
 
 ### Announcements
-- None I can think of
+- Reminder: your project 3 MUST use files and dictionaries to be valid. Feedback in your problem formulation grades. This was a fairly common error (~1/4 of students or more).
 
 ---
 
