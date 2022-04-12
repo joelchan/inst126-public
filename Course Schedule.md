@@ -275,6 +275,10 @@ Learning outcomes:
 
 Resources:
 - PY4E Ch7: https://www.py4e.com/html3/07-files 
+- Day 1
+	- [Week-12_Day-1_Slides_FilesDictionaries](lecture%20notes/Week-12_Day-1_Slides_FilesDictionaries.md)
+	- [Week-12_Day-1_NB_Dictionaries2Files](lecture%20notes/Week-12_Day-1_NB_Dictionaries2_Files.ipynb)
+	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=712a9f73-2dc4-42f3-b99e-ae7501455a62#
 
 Due:
 - At start of week: 
