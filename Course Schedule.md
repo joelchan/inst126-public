@@ -300,7 +300,10 @@ Learning outcomes:
 - Import and use a Python library
 
 Resources:
-- TBD
+- Day 1
+	- [Week-13_Day-1_Slides_Ethics2ModuleIntro](lecture%20notes/Week-13_Day-1_Slides_Ethics2ModuleIntro.md)
+	- [Week-13_Day-1_NB_Module4Intro](lecture%20notes/Week-13-Day-1_NB_Module4Intro.ipynb)
+	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1b8404f6-9897-450b-a840-ae7c0147d723#
 
 Due:
 - At start of week: 
