@@ -25,7 +25,7 @@ Tu/Thu 2:00 PM – 3:15 PM | ATL 1113
 
 **Academic Peer Mentor (AMP)**: Samar Majid
 * Email: smajid@terpmail.umd.edu
-* Office hours: Wed 10am-1pm, Thurs 10am-12pm, and Thurs 5pm-6pm (on Discord/Zoom; Zoom link on ELMS and announced on Discord).
+* Office hours: wed 9am-2pm (on Discord/Zoom; Zoom link on ELMS and announced on Discord).
 
 ## Learning Outcomes
 
