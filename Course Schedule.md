@@ -304,6 +304,10 @@ Resources:
 	- [Week-13_Day-1_Slides_Ethics2ModuleIntro](lecture%20notes/Week-13_Day-1_Slides_Ethics2ModuleIntro.md)
 	- [Week-13_Day-1_NB_Module4Intro](lecture%20notes/Week-13-Day-1_NB_Module4Intro.ipynb)
 	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1b8404f6-9897-450b-a840-ae7c0147d723#
+- Day 2
+	- [Week-13_Day-2_Slides_Review-UsingLibraries](lecture%20notes/Week-13_Day-2_Slides_Review-UsingLibraries.md)
+	- [Week-13-Day-2_NB_Review-and-Using-Libraries](lecture%20notes/Week-13-Day-2_NB_Review-and-Using-Libraries.ipynb)
+	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d19ba9a9-0c76-431a-bf33-ae7e01458c52#
 
 Due:
 - At start of week: 
