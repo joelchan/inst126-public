@@ -327,10 +327,13 @@ Learning outcomes:
 Resources:
 - https://pandas.pydata.org/ 
 - https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
-- [Week-14_NB_Pandas-1](lecture%20notes/Week-14_NB_Pandas-1.ipynb)
+- [Week-14_NB_Pandas-1](lecture%20notes/Week-14_NB_Pandas-1.ipynb) (updated throughout the week)
 - Day 1
 	- [Week-14_Day-1_Slides_Pandas-1](lecture%20notes/Week-14_Day-1_Slides_Pandas-1.md)
 	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1da222c0-c515-4af8-91c1-ae8301568611#
+- Day 2
+	- [Week-14_Day-2_Slides_Pandas-1-ctd](lecture%20notes/Week-14_Day-2_Slides_Pandas-1-ctd.md)
+	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a1f02a9-c051-426d-916e-ae85014610b6 (no audio, guess class mic was on mute? :/ will try to record voiceover)
 
 Due:
 - At start of week: 
