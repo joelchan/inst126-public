@@ -351,7 +351,10 @@ Learning outcomes:
 - Create a basic plot using the pandas library
 
 Resources:
-- TBD
+- [Week-15_NB_Pandas-2](lecture%20notes/Week-15_NB_Pandas-2.ipynb) (updated throughout the week)
+- Day 1
+	- [Week-15_Day-1_Slides_Pandas-2](lecture%20notes/Week-15_Day-1_Slides_Pandas-2.md)
+	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1fc3e2ca-2a2e-4c35-80d8-ae8a0143a72d
 
 Due:
 - At start of week: 
