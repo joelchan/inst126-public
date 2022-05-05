@@ -355,6 +355,9 @@ Resources:
 - Day 1
 	- [Week-15_Day-1_Slides_Pandas-2](lecture%20notes/Week-15_Day-1_Slides_Pandas-2.md)
 	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1fc3e2ca-2a2e-4c35-80d8-ae8a0143a72d
+- Day 2
+	- [Week-15_Day-2_Slides_Pandas-2](lecture%20notes/Week-15_Day-2_Slides_Pandas-2.md)
+	- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a055a65b-ad99-4e50-93ae-ae8c0149f53f#
 
 Due:
 - At start of week: 
