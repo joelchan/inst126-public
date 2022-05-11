@@ -377,7 +377,9 @@ Learning outcomes:
 - Recognize a version control system (like github)
 
 Resources:
-- TBD
+- [Week-16_Day-1_Slides_WebServices-Git-ScriptsIDE](lecture%20notes/Week-16_Day-1_Slides_WebServices-Git-ScriptsIDE.md)
+- [Week-16_Day-1_NB_Web-Services-Demo](lecture%20notes/Week-16_Day-1_Web-Services-Demo.ipynb)
+- Recording: https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ba6b411-4324-4a4f-accf-ae91014f2119#
 
 Due:
 - At start of week: 

@@ -1,6 +1,7 @@
 ### Announcements:
 - Happy last day of class!!!
 - Reminder: extra resources for learning pandas
+	- We linked to this: https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf (and recommended TowardsDataScience Medium blog)
 	- Biggest rec: find some youtube (playlists) that work well for you! Mean quality is *very high* - try to sample more recent ones to start with (or cross-check older ones against more recent ones in case features change; but core should be pretty stable)
 		- https://www.youtube.com/results?search_query=python+pandas+for+beginners
 	- AND! Join a hackathon/project (e.g., on https://www.kaggle.com/, or the UMD Data Challenge)
@@ -21,7 +22,7 @@ In prep for extra credit assignments on git
 Slides: https://docs.google.com/presentation/d/1OkdLyl8ekdOP6S42XN-PrhVdgrpw-GqYT2WiCCmvNl4/edit?usp=sharing
 
 ### Git
-<iframe src="https://www.youtube.com/watch?v=BCQHnlnPusY" height=1000 width=1200></iframe>
+https://www.youtube.com/watch?v=BCQHnlnPusY
 This is just a teaser! I recommend going through the rest of the playlist for Coding Train (he is an EXCELLENT instructor, esp. for folks who might not already have a traditional technical background, like many of us, myself included!).
 
 ---
